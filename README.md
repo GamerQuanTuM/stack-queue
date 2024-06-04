@@ -13,7 +13,7 @@ npm install stack-queue-ts-simplified
 ### Stack
 
 ```
-import { Stack } from 'stack-queue-ts-simplified';
+import { Stack } from 'stack-queue-typescript-simplified';
 
 // Create a new stack
 const stack = new Stack<number>();
@@ -43,7 +43,7 @@ console.log(stack.isEmpty()); // Output: true
 
 ### Queue
 ```
-import { Queue } from 'stack-queue-ts-simplified';
+import { Queue } from 'stack-queue-typescript-simplified';
 
 // Create a new queue
 const queue = new Queue<number>();
