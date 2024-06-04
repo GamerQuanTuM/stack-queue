@@ -1,0 +1,26 @@
+{
+  "name": "stack-queue",
+  "version": "1.0.0",
+  "description": "Simple of stack and queue in ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamerQuanTuM/stack-queue.git"
+  },
+  "keywords": [
+    "stack",
+    "queue"
+  ],
+  "author": "Shuvam Santra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamerQuanTuM/stack-queue/issues"
+  },
+  "homepage": "https://github.com/GamerQuanTuM/stack-queue#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
