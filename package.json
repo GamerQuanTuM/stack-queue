@@ -1,5 +1,5 @@
 {
-  "name": "stack-queue",
+  "name": "stack-queue-ts-simplified",
   "version": "1.0.0",
   "description": "Simple of stack and queue in ts",
   "main": "index.js",
